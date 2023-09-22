@@ -1,0 +1,10 @@
+dash==2.12.1
+discord.py==2.2.3
+numpy==1.23.5
+plotly==5.16.1
+pydub==0.25.1
+pyperclip==1.8.2
+requests==2.31.0
+scheduler==0.8.4
+selenium==4.11.2
+seleniumbase==4.17.8
